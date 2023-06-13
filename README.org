@@ -1,0 +1,10 @@
+* Xecto
+
+80% xectors
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pkhuong/Xecto.git   |
+| commit  | 5eb5651  |
+| systems | Xecto |
+|---------+-------------------------------------------|
+
